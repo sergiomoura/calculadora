@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#calculadora {
+    width: 480px;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
