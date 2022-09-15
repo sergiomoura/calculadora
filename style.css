@@ -23,3 +23,7 @@ body {
     background-color: #CCC;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
 }
+
+button.destaque {
+    background-color: aqua;
+}
