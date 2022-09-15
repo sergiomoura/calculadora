@@ -20,6 +20,6 @@ body {
     width: 480px;
     padding: 5px;
     display: grid;
+    background-color: #CCC;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
 }
-
